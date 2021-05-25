@@ -1,0 +1,16 @@
+{
+  "firstname": "Demon1",
+  "lastname": "User10",
+  "email": "deepsee11@upskills.in",
+  "telephone": "1-2566-45464",
+  "password": "password1",
+  "confirm": "password1",
+  "date_ordered": "2019-12-12",
+  "order_id": "6",
+  "product": "Lenovo IdeaPad S300",
+  "model": "Lenovo Ideapad Laptop",
+  "return_reason_id": "2",
+  "opened": "1",
+  "quantity": "1",
+  "comment": "Received Wrong Item"
+}

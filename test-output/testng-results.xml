@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-25T16:35:48Z" name="Default suite" finished-at="2021-05-25T16:35:56Z" duration-ms="7806">
+    <groups>
+    </groups>
+    <test started-at="2021-05-25T16:35:48Z" name="Default test" finished-at="2021-05-25T16:35:56Z" duration-ms="7806">
+      <class name="TestSuites.AllAssignedCases">
+        <test-method is-config="true" signature="generateToken()[pri:0, instance:TestSuites.AllAssignedCases@33065d67]" started-at="2021-05-25T16:35:48Z" name="generateToken" finished-at="2021-05-25T16:35:52Z" duration-ms="3412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method signature="LoginAsAdmin()[pri:0, instance:TestSuites.AllAssignedCases@33065d67]" started-at="2021-05-25T16:35:52Z" name="LoginAsAdmin" finished-at="2021-05-25T16:35:53Z" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAsAdmin -->
+        <test-method signature="FilterCusFromTillToDate()[pri:2, instance:TestSuites.AllAssignedCases@33065d67]" started-at="2021-05-25T16:35:53Z" name="FilterCusFromTillToDate" finished-at="2021-05-25T16:35:56Z" duration-ms="3502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterCusFromTillToDate -->
+      </class> <!-- TestSuites.AllAssignedCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
